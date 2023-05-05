@@ -1,3 +1,4 @@
 Constantes {
  constante HELLO_WORLD = « Hello world !»
+ constant DAY = « Date du jour »
  }
